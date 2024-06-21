@@ -10,7 +10,5 @@ This is a remotebricks assignment using FastAPI, Flask and MongoDB
    ```bash
    pip install -r requirements.txt
     ```
-3. **Start the application**:
-   ```bash
-   uvicorn main:app --reload
-   ```
+3. **Run the application**:
+  
